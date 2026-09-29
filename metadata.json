@@ -1,0 +1,6 @@
+{
+  "name": "비자 정보 및 평생교육원 2대 플랫폼 기획서 & 와이어프레임 시스템",
+  "description": "비자 정보 다국어 아카이빙 플랫폼 및 평생교육원 원스톱 접수·결제·수료 플랫폼의 사용자/관리자 와이어프레임 및 기능명세 뷰어",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
